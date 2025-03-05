@@ -15,4 +15,8 @@ MENTOR: NEELA SANTOSH
 
 This task helped me understand the importance of **accessibility, user guidance, and seamless interaction design** in voice-controlled applications. Working in Figma allowed me to prototype voice interactions effectively and collaborate with developers to ensure a smooth integration between design and functionality.
 
-OUTPUT:
+OUTPUT: ![Image](https://github.com/user-attachments/assets/6cd7fbce-1856-480c-982c-8609936c0026)
+
+![Image](https://github.com/user-attachments/assets/dfb03e64-93eb-4f34-b024-c6943dcc5538)
+
+![Image](https://github.com/user-attachments/assets/7db8a00a-557a-4923-bd8d-3b7d76cb7409)
